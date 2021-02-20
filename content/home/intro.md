@@ -1,18 +1,13 @@
 ---
-# Use the Intro widget of the Blog template
 widget: starter.blog.intro
-
-# This file represents a page section.
+widget_id: Introduction
 headless: true
-
-# Order that this section will appear in.
 weight: 10
-
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
-
+title: More Than Codes
+subtitle: 怕什么真理无穷，进一步有进一步的欢喜。
+active: true
 design:
   background:
-    color: '#090a0b'
+    color: "#1d5892"
     text_color_light: true
 ---
