@@ -8,6 +8,6 @@ subtitle: 怕什么真理无穷，进一步有进一步的欢喜。
 active: true
 design:
   background:
-    color: "#ffffff"
+    color: "#000000"
     text_color_light: true
 ---
